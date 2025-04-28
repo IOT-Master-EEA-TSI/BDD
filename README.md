@@ -13,12 +13,12 @@ Un fichier contenant la structure et les données de la base est fourni.
 
 <ul>
   <li><strong>phpMyAdmin</strong>
-    <ul>
+    <ol type="1">
       <li>Accédez à votre phpMyAdmin via votre navigateur</li>
       <li>Sélectionnez ou créez une base de données vide dans la colonne de gauche</li>
       <li>Cliquez sur l’onglet "Importer" dans le menu supérieur</li>
       <li>Cliquez sur "Choisir un fichier", sélectionnez votre fichier <code>.sql</code>, puis cliquez sur "Exécuter" pour lancer l'importation</li>
-    </ul>
+    </ol>
   </li>
 
   <li><strong>MySQL Workbench</strong>
