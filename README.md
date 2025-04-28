@@ -12,10 +12,10 @@ Un fichier contenant la structure et les données de la base est fourni.
 ### Instructions spécifiques selon le serveur SQL utilisé
 
 - **phpMyAdmin**
-1. Accédez à votre phpMyAdmin via votre navigateur
-2. Sélectionnez ou créez une base de données vide dans la colonne de gauche
-3. Cliquez sur l’onglet "Importer" dans le menu supérieur
-4. Cliquez sur "Choisir un fichier", sélectionnez votre fichier `.sql`, puis cliquez sur "Exécuter" pour lancer l'importation
+  1. Accédez à votre phpMyAdmin via votre navigateur
+  2. Sélectionnez ou créez une base de données vide dans la colonne de gauche
+  3. Cliquez sur l’onglet "Importer" dans le menu supérieur
+  4. Cliquez sur "Choisir un fichier", sélectionnez votre fichier `.sql`, puis cliquez sur "Exécuter" pour lancer l'importation
 
 - **MySQL Workbench**
   1. Lancez MySQL Workbench et connectez-vous à votre serveur
